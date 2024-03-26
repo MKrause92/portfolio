@@ -8,7 +8,7 @@ Data is also wide-reaching, and it touches more areas of a business than just th
 As a budding data analyst, my passion lies in writing code to extract business insights, and then communicating these insights to the relevant stakeholders to allow for better business decisions to be made.
 I am new to writing SQL and Python, but I have a knack for coding, and I want to explore these skills further. Due to my background in finance, I am also adept at data visualization and report building.
 
-This portfolio is to showcase my abilities as a new data professional. It includes SQL code and Power BI dashboards/reports for data visualizations. It will also include Python code as I work on learning this skill.
+This portfolio is to showcase my abilities as a new data professional. It includes various flavors of SQL code and Power BI dashboards/reports for data visualization. It will also include Python code as I work on learning this skill.
 
 As someone looking to make a career change, this portfolio shows my readiness for a career in data to potential employers.
 Whether they are looking for a data analyst that can write SQL, Python, or manipulate and visualize data in Power BI, this portfolio will exhibit my skill in all three.

@@ -1,4 +1,4 @@
-I have been interested in data analysis for a little over a decade. Despite this, I worked in finance as a financial analyst and senior financial analyst for almost the past decade.
+I have been interested in data analysis for a little over a decade. Previously, I worked in finance as a financial analyst and senior financial analyst for the past decade.
 After so much time learning finance and exploring a career that, while educational, was not the right fit for me, I have decided to pursue my passion for data analytics.
 
 Data is interesting to me because it encapsulates so much more than just money.

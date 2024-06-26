@@ -3,7 +3,7 @@ After so much time learning finance and exploring a career that proved immensely
 
 Data analytics is interesting to me because it encapsulates so much more than just money.
 Instead of measuring operational efficiencies and their effect on the bottom line, data analysis allows me to understand what is or is not driving those operational efficiencies and how to improve upon them, which then helps to inform their effect on the bottom line.
-Data is also wide-reaching, and it touches more areas of a business than just the financial statements. As someone with strong business acumen, I want to analyze entire businesses and build on my existing financial knowledge.
+Data is also wide-reaching, and it touches more areas of a business than just the financial statements. As someone with strong business acumen, I want to analyze entire businesses and understand how operational decisions will impact businesses financially.
 
 As an experienced financial and budding data professional, my passion lies in writing code to extract business insights, and then communicating these insights to the relevant stakeholders to allow for better business decisions to be made.
 I am new to writing SQL and Python, but I have a knack for coding, and I want to explore these skills further. Due to my background in finance, I am also adept at data visualization and report building.

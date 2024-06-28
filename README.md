@@ -11,6 +11,6 @@ I have some experience writing SQL and Python, and I have a knack for coding, an
 This portfolio is to showcase my technical abilities and how they can be used in a data-enabled role on a finance or data analytics team. It includes various flavors of SQL code and Power BI dashboards/reports for data visualization, and it includes Python code for data manipulation, visualization, and beginner data science.
 
 As someone looking to elevate their career, this portfolio shows my readiness for a more technical role within the field of finance or data analytics.
-Whether companies are looking for an all-around analyst with strong business acumen that can write SQL, Python, or manipulate and visualize data in Power BI, this portfolio will exhibit my skill in all three.
+If companies are looking for an all-around analyst - financial or otherwise - with strong business acumen that can write SQL, Python, or manipulate and visualize data in Power BI, this portfolio will exhibit my skill in all three.
 
 As the sole maintainer of this portfolio, I will update it with new displays of my aptitude as I continue learning new skills. The next addition to this portfolio will be more SQL flavors and potentially some work in Alteryx.
